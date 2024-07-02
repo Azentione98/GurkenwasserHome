@@ -1,0 +1,4 @@
+permissions:
+  default: 2
+  admin: 5
+prefix: "§8[§2GurkenwasserHomes§8] §f"

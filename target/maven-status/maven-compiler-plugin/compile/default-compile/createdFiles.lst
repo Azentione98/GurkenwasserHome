@@ -1,0 +1,6 @@
+wurstwasser\gurkenwasserhome\commands\cmdHome.class
+wurstwasser\gurkenwasserhome\startup\GurkenwasserHome.class
+wurstwasser\gurkenwasserhome\commands\cmdHomes.class
+wurstwasser\gurkenwasserhome\commands\cmdSethome.class
+wurstwasser\gurkenwasserhome\messages\messages.class
+wurstwasser\gurkenwasserhome\commands\cmdDelhome.class

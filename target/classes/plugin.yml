@@ -1,0 +1,21 @@
+name: GurkenwasserHome
+version: '1.1.0'
+main: wurstwasser.gurkenwasserhome.startup.GurkenwasserHome
+api-version: '1.20'
+
+commands:
+  home:
+    description: Teleports you to your home
+  sethome:
+    description: Sets your home
+  homes:
+    description: Lists all your homes
+  delhome:
+    description: Deletes a specified home
+permissions:
+  gurkenwasserhome.default:
+    description: Standard permission for setting homes
+    default: true
+  gurkenwasserhome.admin:
+    description: Admin permission for setting most homes
+    default: op
